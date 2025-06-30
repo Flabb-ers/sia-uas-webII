@@ -67,7 +67,7 @@ Presensi dihitung berdasarkan kehadiran siswa pada setiap pertemuan dan disimpan
 ## Catatan Pengembangan
 Struktur database yang digunakan dalam sistem ini merupakan dasar utama agar seluruh fitur dapat berjalan.
 
-Apabila di kemudian hari terdapat kebutuhan **untuk menjaga kelangsungan atau kelancaran sistem** (contoh: menambahkan kolom ID relasi tambahan, timestamp, dll), maka **penambahan kolom atau tabel diperbolehkan**.
+Apabila memerlukan penambahan kolom tabel (contoh: menambahkan kolom ID relasi tambahan, timestamp, dll), maka **penambahan kolom atau tabel diperbolehkan**.
 
 Namun, **tidak diperbolehkan menghapus, mengganti tipe data, atau mengubah struktur inti yang sudah ada**
 
