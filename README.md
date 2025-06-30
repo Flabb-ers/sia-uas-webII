@@ -1,8 +1,5 @@
 # Alur Sistem Informasi Akademik Sekolah
 
-## Deskripsi Sistem
-Sistem Informasi Akademik Sekolah ini dirancang untuk mendukung proses akademik, seperti pengelolaan jadwal, presensi, dan penilaian siswa. Sistem terdiri dari tiga peran utama, yaitu admin, guru, dan siswa.
-
 ## Peran dan Fungsi
 
 ### 1. Admin
@@ -68,9 +65,9 @@ Presensi dihitung berdasarkan kehadiran siswa pada setiap pertemuan dan disimpan
 ---
 
 ## Catatan Pengembangan
-Struktur database yang digunakan dalam sistem ini merupakan dasar utama agar seluruh fitur dapat berjalan sebagaimana mestinya.
+Struktur database yang digunakan dalam sistem ini merupakan dasar utama agar seluruh fitur dapat berjalan.
 
 Apabila di kemudian hari terdapat kebutuhan **untuk menjaga kelangsungan atau kelancaran sistem** (contoh: menambahkan kolom ID relasi tambahan, timestamp, dll), maka **penambahan kolom atau tabel diperbolehkan**.
 
-Namun, **tidak diperkenankan menghapus, mengganti tipe data, atau mengubah struktur inti yang sudah ada**, karena dapat menyebabkan sistem tidak berjalan dengan baik atau terjadi error pada proses otomatisasi seperti perhitungan nilai dan presensi.
+Namun, **tidak diperbolehkan menghapus, mengganti tipe data, atau mengubah struktur inti yang sudah ada**
 
